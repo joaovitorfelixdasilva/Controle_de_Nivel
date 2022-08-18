@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Controle_De_Nivel.X
+PROJECTNAME=JCMS
 
 # Active Configuration
 DEFAULTCONF=default
