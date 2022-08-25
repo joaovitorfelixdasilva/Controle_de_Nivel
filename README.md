@@ -5,13 +5,13 @@
 
 |**Pinos**|**PORT**| **Periféricos** | **Função** |
 |---------|--------|-----------------|------------|
-|1        |RE3     |BOIA_INF_RE3     |BOIA_INF    |
+|1        |RE3     |                 |            |
 |2        |RA0     |K1_RA0           |K1          |
-|3        |RA1     |                 |            |
-|4        |RA2     |                 |            |
+|3        |RA1     |K2_RA1           |K2          |
+|4        |RA2     |K3_RA2           |K3          |
 |5        |RA3     |                 |            |
 |6        |RA4     |                 |            |
-|7        |RA5     |BOIA_SUP_RA5     |BOIA_SUP    |
+|7        |RA5     |                 |            |
 |8        |E0      |                 |            |
 |9        |RE1     |                 |            |
 |10       |RE2     |                 |            |
@@ -33,8 +33,8 @@
 |26       |RC7     |                 |            |
 |27       |RD4     |LCD_RS           |LCD         |
 |28       |RD5     |LCD_EN           |LCD         |
-|29       |RD6     |K3_RD6           |K2          |
-|30       |RD7     |K3_RD7           |K3          |
+|29       |RD6     |BOIA_SUP_RD6     |BOIA_SUP    |
+|30       |RD7     |BOIA_INF_RD7     |BOIA_INF    |
 |31       |VSS     |                 |            |
 |32       |VDD     |                 |            |
 |33       |RB0     |TECLADO_RB0      |TECLADO     |
