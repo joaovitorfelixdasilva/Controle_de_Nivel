@@ -27,8 +27,8 @@
 |20       |RD1     |LCD_D1           |LCD         |
 |21       |RD2     |LCD_D2           |LCD         |
 |22       |RD3     |LCD_D3           |LCD         |
-|23       |RC4     |SENSOR_INF_MEDIO |SENSOR      |
-|24       |RC5     |SENSOR_INF_ALTO  |SENSOR      |
+|23       |RC4     |SENSOR_SUP_MEDIO |SENSOR      |
+|24       |RC5     |SENSOR_SUP_ALTO  |SENSOR      |
 |25       |RC6     |                 |            |
 |26       |RC7     |                 |            |
 |27       |RD4     |LCD_RS           |LCD         |
