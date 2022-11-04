@@ -6,14 +6,14 @@
 |**Pinos**|**PORT**| **Periféricos** | **Função** |
 |---------|--------|-----------------|------------|
 |1        |RE3     |                 |            |
-|2        |RA0     |K1_RA0           |K1          |
-|3        |RA1     |K2_RA1           |K2          |
-|4        |RA2     |K3_RA2           |K3          |
-|5        |RA3     |                 |            |
-|6        |RA4     |                 |            |
-|7        |RA5     |                 |            |
-|8        |E0      |                 |            |
-|9        |RE1     |                 |            |
+|2        |RA0     |SAIDA_KC1_RA0    |KC1         |
+|3        |RA1     |SAIDA_KC2_RA1    |KC2         |
+|4        |RA2     |SAIDA_KC3_RA2    |KC3         |
+|5        |RA3     |SILALEIRO_RA3    |MOSTAR_FALHA|
+|6        |RA4     |SAIDA_EXTRA_RA4  |EXTRA       |
+|7        |RA5     |SAIDA_EXTRA_RA5  |EXTRA       |
+|8        |RE0     |SILALEIRO_RE0    |ENERGIZADO  |
+|9        |RE1     |SILALEIRO_RE1    |MANUAL/AUTO |
 |10       |RE2     |                 |            |
 |11       |VDD     |                 |            |
 |12       |VCC     |                 |            |
